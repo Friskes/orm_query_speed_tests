@@ -9,6 +9,9 @@ git clone https://github.com/Friskes/orm_query_speed_tests.git
 python -m venv venv
 ```
 ```
+pip install -r requirements.txt
+```
+```
 python manage.py makemigrations
 ```
 ```
